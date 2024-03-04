@@ -2,6 +2,10 @@
 
 A Pac-Man game built with HTML, CSS, and JavaScript is a classic recreation of the iconic arcade game where players control Pac-Man, a yellow circular character, navigating through a maze, eating dots, avoiding ghosts, and collecting fruits for points. Here's a breakdown of how such this game is structured:<br><br>
 
+## Preview
+
+link - [click here](https://pac-man-game-subhendu.netlify.app/)
+
     => HTML Structure:
         -> The HTML structure will consist of the game board where Pac-Man moves, the maze layout, the score display, and any other necessary elements.
 
